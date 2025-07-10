@@ -1,3 +1,16 @@
+# UN5 Bot
+
+This is the automated trading bot for UN5 token on Uniswap V3.
+
+## Features
+
+- Swap tokens automatically based on config
+- Built with Web3.js
+- Customizable trading parameters via .env
+
+## How to Use
+
+1. Clone the repo:
 \# UN5 Bot
 
 
