@@ -1,0 +1,17 @@
+{
+  "name": "un5-bot",
+  "version": "1.0.0",
+  "description": "UN5 Trading Bot for Uniswap V3 & V4 - Simulates volume and monitors LPs",
+  "main": "tradeBot.js",
+  "scripts": {
+    "start": "node tradeBot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.10.0",
+    "web3": "^4.2.2"
+  },
+  "author": "jackmoy8888",
+  "license": "MIT"
+}
