@@ -29,7 +29,8 @@ UN5 Trading Bot for Uniswap V3 \& V4 – Automatically simulates buy/sell volume
 
 
 un5-bot/
-
+├── gitignore  
+├── README.md
 ├── config/
 
 │   ├── config.js               # Bot config (wallet, pair, strategy)
